@@ -1,4 +1,0 @@
-﻿  MadLibGencpp.cpp
-C:\Users\Honey\Desktop\MOON ASH\FIT1048\test2fora1\TinA1\TinA1\MadLibGencpp.cpp(159,36): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-  LINK : C:\Users\Honey\Desktop\MOON ASH\FIT1048\test2fora1\TinA1\x64\Debug\TinA1.exe not found or not built by the last incremental link; performing full link
-  TinA1.vcxproj -> C:\Users\Honey\Desktop\MOON ASH\FIT1048\test2fora1\TinA1\x64\Debug\TinA1.exe
