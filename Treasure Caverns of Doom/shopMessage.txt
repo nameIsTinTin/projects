@@ -1,0 +1,9 @@
+|||||||||||||||||BUSINESS OF DOOM||||||||||||||||||
+[1]: ATTACK +2               [4 GOLD] 
+[2]: DAMAGE +1               [4 GOLD] 
+[3]: DEFENSE +1              [4 GOLD] 
+[4]: ADD OIL +8              [4 GOLD] 
+[5]: BUY PROVISION           [5 GOLD] 
+[6]: MYSTERIOUS POTION FLASK [8 GOLD]
+[7]: QUIT
+|||||||||||||||||BUSINESS OF DOOM||||||||||||||||||
