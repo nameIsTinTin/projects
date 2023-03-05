@@ -5,3 +5,6 @@ The following link re-directs you to the project my team and I has done in 2023'
 
 https://github.com/DanielArnould/OSUMentorMatch
 
+Further details about the project can be seen inside of my devpost: 
+
+https://devpost.com/software/osu-mentor-finder
